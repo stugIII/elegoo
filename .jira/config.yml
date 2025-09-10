@@ -1,0 +1,8 @@
+deployment:
+  deploymentGating:
+    enabled: true
+    enmironments:
+      - prod
+  services:
+    ids:
+    - dummyid
