@@ -1,4 +1,4 @@
-# add some comment to trigger update
+# add some comment to trigger update to config in gh4a
 deployment:
   deploymentGating:
     enabled: true
